@@ -1,2 +1,2 @@
 # Calculator-Website
-Its a calculator developed using HTML, CSS and JavaScript 
+It's a code of calculator website developed using HTML, CSS and JavaScript 
